@@ -2,28 +2,43 @@
 
 ---
 
-🌟 Experienced IT Professional Specializing in Cloud, Virtualization, and Data Center Solutions
+### 🌟 Experienced IT Professional Specializing in Cloud, Virtualization, and Data Center Solutions
 
-Welcome to my GitHub profile! I'm a DevOps Engineer with a strong foundation in infrastructure, cloud, and automation. I'm passionate about evolving my skills in cloud-native and automation technologies and am excited by opportunities where I can contribute to strategic growth and innovation in cloud and DevOps practices. Explore my projects to see my work in cloud, containerization, CI/CD, and more!
+Welcome to my GitHub profile! I'm a **Platform Engineer | DevOps Automation** specialist with a strong background in **infrastructure, cloud, and automation**.
+
+I'm passionate about **cloud-native technologies** and **automation**, always looking to enhance my skills and contribute to **strategic growth and innovation** in **cloud and DevOps practices**.
+
+🚀 Explore my projects to see my work in **cloud computing, containerization, CI/CD, and infrastructure automation**!
 
 ---
 
-### 🔧 Technologies and Tools
+### 🔧 Technologies and Tools  
+With over a **decade in IT**, I specialize in **designing, implementing, and managing** data center and cloud environments across various platforms. My expertise includes **server infrastructure, storage, virtualization, backup, disaster recovery, and cloud computing**, with deep technical knowledge in **VMware and Public/Private Cloud**.
 
-With over a decade in IT, I have a robust background in designing, implementing, and managing data center and cloud environments across a wide range of platforms and technologies. My expertise spans server infrastructure, storage, virtualization, backup, disaster recovery, and cloud computing solutions, with deep technical skills in VMware and Private Cloud. I am currently leading a R&D team at IIJ Global Solutions, where we focus on building and maintaining high-availability cloud platforms, enabling seamless scalability and security for our clients.
+Currently, I lead an **R&D team at IIJ Global Solutions**, focusing on **building and maintaining high-availability cloud platforms** to ensure seamless **scalability and security** for clients.
 
-- **Cloud**: AWS, Microsoft Azure, VMware Cloud Director
+#### 🔹 Cloud & Virtualization
+- **Cloud**: AWS, Microsoft Azure, VMware Cloud
 - **Virtualization**: VMware, KVM, Virtuozzo, Proxmox
-- **Containerization**: Docker, Kubernetes
+
+#### 🔹 Containerization & Automation
+- **Containers**: Docker, Kubernetes
 - **CI/CD**: GitLab CI/CD, GitHub Actions, Argo CD
-- **Configuration Management**: Ansible, Terraform
-- **Monitoring**: Zabbix, Prometheus, Grafana, ELK Stack
+- **Infrastructure as Code**: Ansible, Terraform
+
+#### 🔹 Monitoring & Security
+- **Monitoring**: Zabbix, Grafana, Loki, Prometheus, ELK Stack
+- **Backup & DR**: Veeam, Acronis, vCloud Director Availability
+
+#### 🔹 Scripting & DevOps
 - **Scripting**: Bash, Python
-- **Version Control**: Git, GitHub
-- **Backup & DR Services**: Veeam, Acronis, vCloud Director Availability 
-- **Infrastructure & Servers**: Software Defined Data Center,  VMware Horizon (VDI), Dell, HP, Storage Solutions, SAN, Virtual SAN, NAS.
+- **Version Control**: GitLab, GitHub
 
-
+#### 🔹 Infrastructure & Storage
+- **Software-Defined Data Center (SDDC)**, VMware Horizon (VDI)
+- **Enterprise Hardware**: Dell, HP, Storage Solutions
+- **Storage**: Object Storage, SAN, Virtual SAN, NAS
+  
 [![](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
 [![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -47,15 +62,16 @@ With over a decade in IT, I have a robust background in designing, implementing,
 
 ### 🌱 I'm currently learning
 
-- Learning Golang to enhance automation tasks and support microservices on Kubernetes
-- Continuously building expertise in cloud-native and DevOps tools
+- Exploring **Golang** to enhance automation tasks and support microservices on **Kubernetes**  
+- Deepening my expertise in **GitOps** and **cloud-native** technologies  
 
 ### 👯 I'm looking to collaborate on
 
-- Seeking roles that allow for advancement in cloud computing, software defined data center infrastructure, automation, and infrastructure as code, with a chance to impact large-scale IT projects and mentor upcoming IT professionals.
+- Opportunities in **cloud computing, software-defined data center infrastructure, automation, and infrastructure as code**  
+- Contributing to **large-scale IT projects** while mentoring and supporting aspiring IT professionals  
 
 ---
 
-### 📫 How to reach me
+### 💌 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duong-van-thanh-8b368521b)
